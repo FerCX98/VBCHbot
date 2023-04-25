@@ -1,2 +1,2 @@
 # VBCHbot
-Virtual Chatbot for Amazon Alexa for med students
+Virtual Medical Patient Chatbot for Amazon Alexa made for medical students
